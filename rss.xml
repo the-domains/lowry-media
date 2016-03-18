@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[lowry media]]></title>
         <description><![CDATA[lowry media]]></description>
-        <link>https://thegrid.ai/lowry-media/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 20:50:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/lowry-media/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Church reaches out to South Sudanese fleeing violence]]></title>
-            <description><![CDATA[<article><h1>Church reaches out to South Sudanese fleeing violence</h1><p>NIMULE, South Sudan (BP) -- As a third of South Sudan's population faces starvation, International Mission Board personnel and Baptist Global Response are partnering with a local church to care for those fleeing ethnic violence. Nearly four million people may starve to death as a result of the country's now five-month-old civil war, the United Nations reports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f4c251ba46e1697a00620450db381592cc824f0.jpg"></article>]]></description>
-            <link>http://www.bpnews.net/42645/church-reaches-out-to-south-sudanese-fleeing-violence</link>
-            <guid isPermaLink="false">0d9fd0cd-9a8c-46d3-921b-c90362af8c0e</guid>
-            <pubDate>Fri, 18 Mar 2016 20:50:22 GMT</pubDate>
-        </item>
+        <lastBuildDate>Fri, 18 Mar 2016 20:50:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Being the Church: Living in community to reach the lost of Uganda]]></title>
             <description><![CDATA[<article><h1>Being the Church: Living in community to reach the lost of Uganda</h1><p>KAABONG, Uganda - Susan Taliaferro picks up her screaming daughter, Ember, pleading with her to stop crying. The 2-year-old has been wailing, with barely a pause for breath, for the last two hours. Her 3-year-old brother sits at a small plastic table, throwing beans onto the floor as people rush in and out of the kitchen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39811b609607e6663d2d2d262e53483218ae1cfd.jpg"></article>]]></description>
