@@ -1,0 +1,28 @@
+name: lowry media
+favicon: null
+layout_spectrum: 0.44452104857191443
+typography_spectrum: 0.6964043313637376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.13990053511224687
+  lightness: 0.45478064590133727
+  saturation: 0.5947695875074714
+  rhythmicContrast: 0.5952650322578847
+purpose: []
